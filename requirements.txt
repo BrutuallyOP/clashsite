@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+jinja2
+sqlalchemy
+aiosqlite
+pydantic
+pydantic-settings
+python-multipart
+bcrypt
+pillow
+email-validator
