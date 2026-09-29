@@ -1,11 +1,11 @@
-fastapi
-uvicorn[standard]
-jinja2
-sqlalchemy
 aiosqlite
+email-validator
+fastapi
+jinja2
 pydantic
 pydantic-settings
 python-multipart
-bcrypt
+pwdlib[argon2]
 pillow
-email-validator
+sqlalchemy
+uvicorn[standard]
