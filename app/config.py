@@ -5,6 +5,7 @@ Never hard-code secrets here. Everything that changes between
 dev / staging / production comes from environment variables or a
 local .env file (see .env.example).
 """
+
 from functools import lru_cache
 from pathlib import Path
 
